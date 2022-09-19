@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, Olá 👋
 
-<!--
-**guilhermealima/guilhermealima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guilherme Lima, a FrontEnd Web Developer based in São Paulo, Brazil 🇧🇷. I'm a passionate person about technologies, art and games, and I love helping people with all of my knowledge.
 
-Here are some ideas to get you started:
+Here are some things about me that you might want to know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on IBM as a FrontEnd Developer
+- 🌱 I’m currently learning **React** and **TypeScript**
+- 💬 Ask me about **JavaScript**, **Game Development**, **Accessibility**
+- 😄 Pronouns: He, Him, His
+- ⚡ Fun fact: I'm a big Nintendo and Pokémon fan! 👀
+
+I know my name is not the easiest thing in the world to spell, so if you want to know how is the correct pronunciation you can check [here](https://www.youtube.com/watch?v=pLEqP3bW-Jg)! 😄
