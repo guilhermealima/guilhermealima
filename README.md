@@ -10,4 +10,4 @@ Here are some things about me that you might want to know:
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I'm a big Nintendo and Pokémon fan! 👀
 
-I know my name is not the easiest thing in the world to spell, so if you want to know how is the correct pronunciation you can check [here](https://www.youtube.com/watch?v=pLEqP3bW-Jg)! 😄
+I know my name is not the easiest thing in the world to spell, so if you want to know how to pronounce it correctly you can check [here](https://www.youtube.com/watch?v=pLEqP3bW-Jg)! 😄
